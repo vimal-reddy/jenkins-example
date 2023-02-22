@@ -1,12 +1,2 @@
 
-HAI THIS IS VIMAL
-AWSDEVOPS
-AWS
-MAVEN
-JENKINS
-K8S
-DOCKER
-shell scripting
-ansible
-TERRAFORM
-KUBERNETES
+kubernetes
