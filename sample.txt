@@ -1,2 +1,4 @@
 jenkins
 kubernetes
+git
+linux
